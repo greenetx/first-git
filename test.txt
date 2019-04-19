@@ -1,3 +1,5 @@
 third branch test file 1
 
 this is a new file after enabled FORCED-COMMIT
+
+enabled ssh and gpg for signed commit.
